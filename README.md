@@ -1,5 +1,6 @@
 - [1. DatePrinter](#1-dateprinter)
 - [2. CreateFolderStructure](#2-createfolderstructure)
+- [3. Check Internet Connectivity (googlePing)](#3-check-internet-connectivity-googleping)
 
 # 1. DatePrinter
 
@@ -17,3 +18,12 @@
 - After running this batch file it will ask you for the folder name. (Add folder name without special characters)
 - `Rough`, `Final`, `Zombie`, `Documents`, `Issues` Those are the sub folders which are getting created under your main folder.
 - Path.txt changes causing some issue so it is still pending to add.
+
+# 3. Check Internet Connectivity (googlePing)
+
+- It will show you google connectivity
+
+![googlePing](./Images/googlePing.png)
+
+- If you have good connectivity then your output will be seen something like this.
+- If you have bad connectivity you will see a `Request timed out` message intermediately or continuously. Or `time= ` section in report is also greater than 100ms then probably you have low speed internet connection.
