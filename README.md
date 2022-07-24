@@ -10,7 +10,7 @@
 
 # 2. CreateFolderStructure
 
-- This batch file is create a folder structure at particular location you want. it takes the FOlder nae from user.
+- This batch file is create a folder structure at particular location you want. it takes the Folder nae from user.
 
 ![createFolderStruct](./Images/createFolderStruct.png)
 
