@@ -4,6 +4,8 @@
 
 # 1. DatePrinter
 
+![createFolderStruct](./Images/DatePrinter.png)
+
 - Prints a current running month
 - It is a sample script you can use at different areas where you want to print current month.
 - e.g. While renaming the file using batch file.
